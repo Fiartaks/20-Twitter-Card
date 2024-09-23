@@ -1,7 +1,55 @@
-#Yapilcaklar
+# 🐦 Tweeter Uygulaması Tweet Oluşturma Kartı
 
-1-Kullanici input a tikladiginda place holderin renginin degismsi
-2-Klavyeden giris oldugunda placeholderin kaybolmasi
-3-Klavyeden giris yapilmadiginda placeholderin tekrar gelmesi
-4-Eger klavye girisi varsa tweet butonu aktif olacak
-5-Eger kullanici limiti gecmisse tweet butonu pasif olacak# 20-Twitter-Card
+Bu projede, bir tweet oluşturma kartı arayüzü oluşturmak için HTML, CSS ve JavaScript kullanıldı. 
+Kullanıcılar, tweetlerini yazabilir ve karakter sınırını gözeterek göndermek için bir kullanıcı arayüzü sunar.
+
+## 💼 Sunum
+![](twitter.gif)
+
+
+
+
+## 📚 Özellikler
+
+- **🖊️ Tweet Girişi: Kullanıcılar tweetlerini yazabilir.
+- **🔄 Karakter Sınırı: 140 karakter sınırı vardır ve karakter sayacı ile takip edilmesini sağlar.
+- **🌍 Gizlilik Ayarları: Basit gizlilik ayar simgeleri (örneğin, dünya ikonu).
+- **🎈 Emoji ve İkonlar: Font Awesome entegrasyonu ile ikonlar ve emoji desteği.
+
+
+## 📝 Yapılanlar
+
+- **🎨 Kullanıcı input'a tıkladığında placeholder'ın renginin değişmesi
+- **✨ Klavyeden giriş olduğunda placeholder'ın kaybolması
+- **🔄 Klavyeden giriş yapılmadığında placeholder'ın tekrar gelmesi
+- **✅ Eğer klavye girişi varsa Tweet butonunun aktif olması
+- **🚫 Eğer kullanıcı limiti geçmişse Tweet butonunun pasif olması
+- 
+
+### 🔧 Kullanılan Teknolojiler
+
+- **🎨 CSS ve HTML
+- **🧠 JavaScript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
