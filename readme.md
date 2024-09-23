@@ -1,4 +1,4 @@
-# 🌐 Twitter Uygulaması- Twit Oluşturma Kartı🌐
+# 🌐 Twitter Uygulaması- Twit Oluşturma Arayüzü🌐
 
 Bu projede, bir tweet oluşturma kartı arayüzü oluşturmak için HTML, CSS ve JavaScript kullanıldı. 
 Kullanıcılar, tweetlerini yazabilir ve karakter sınırını gözeterek göndermek için bir kullanıcı arayüzü sunar.
